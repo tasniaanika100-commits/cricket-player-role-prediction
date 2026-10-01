@@ -111,11 +111,10 @@ We chose to report this honestly rather than tune the setup to make the numbers 
 
 All saved plots are in `reports/figures/`, including:
 
-- Class distribution
-- Model comparison (Accuracy and Macro F1)
-- Bowling style vs. position
-- Confusion matrix for each model
-- K-Means elbow and PCA plots
+![Class distribution](reports/figures/outputs_target_distribution.png)
+![Model comparison — Accuracy](reports/figures/outputs_model_comparison_accuracy.png)
+![Model comparison — Macro F1](reports/figures/outputs_model_comparison_macrof1.png)
+![Bowling style vs position](reports/figures/outputs_bowlingstyle_vs_position.png)
 
 ## Repository Structure
 
