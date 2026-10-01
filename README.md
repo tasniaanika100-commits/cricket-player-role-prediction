@@ -155,5 +155,5 @@ Python, pandas, NumPy, scikit-learn, matplotlib, seaborn
 
 ## Contributors
 
-- **Zarif Yamin** ([@ZARIFYAMIN](https://github.com/ZARIFYAMIN))
-- **Tasnia Anika** ([@tasniaanika100-commits](https://github.com/tasniaanika100-commits))
+- **Kazi Zarif Yamin** ([@ZARIFYAMIN](https://github.com/ZARIFYAMIN))
+- **Syeda Fatima Tasnia ** ([@tasniaanika100-commits](https://github.com/tasniaanika100-commits))
